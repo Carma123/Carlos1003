@@ -1,0 +1,226 @@
+.navbar {
+    background-color: white;
+    overflow: hidden;
+    margin: auto;
+    width: 1000px;
+}
+
+/* Style the links inside the navigation bar */
+.navbar a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.navbar a:hover {
+  background-color: skyblue;
+  color: black;
+  border-radius: 8px;
+}
+
+/* Right-aligned section inside the top navigation */
+.navbar-right {
+  float: right;
+  color: black;
+}
+
+#content, #img{
+  height: 450px;
+  width:100%;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 15px;
+  margin-top: 30px;
+  border:1px   #3f0c1f;
+}
+
+#content{
+   height: 450px;
+   width:100%;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 15px;
+  margin-top: 30px;
+  border:1px   #3f0c1f;
+}
+
+#content11{
+   height: 450px;
+   width:100%;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 15px;
+  margin-top: 30px;
+  border:1px   #3f0c1f;
+}
+
+#content12{
+   height: 450px;
+   width:100%;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 15px;
+  margin-top: 30px;
+  border:1px   #3f0c1f;
+}
+
+#content13{
+   height: 450px;
+   width:100%;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 15px;
+  margin-top: 30px;
+  border:1px   #3f0c1f;
+}
+
+#img{
+  background:  url('images/camera.jpg')no-repeat;
+  background-position: center;
+
+}
+
+
+#img1{
+  background:  url('images/read.jpg')no-repeat;
+  position: relative;
+  background-position: center;
+  height: 450px;
+  width: 600px;
+  background-size: contain;
+  margin-top: 30px;
+}
+
+#img4{
+  background:  url('images/board1.png')no-repeat;
+  position: relative;
+  background-position: center;
+  height: 150px;
+  width: 100%;
+  background-size: contain;
+  margin-top: 30px;
+}
+
+#img5{
+  background:  url('images/board2.jpg')no-repeat;
+  position: relative;
+  background-position: center;
+  height: 150px;
+  width: 100%;
+  background-size: contain;
+  margin-top: 30px;
+}
+
+#img6{
+  background:  url('images/board1.png')no-repeat;
+  position: relative;
+  background-position: center;
+  height: 150px;
+  width: 100%;
+  background-size: contain;
+  margin-top: 30px;
+}
+
+#col-md-6{
+margin-top: 20px;
+}
+
+#content{
+  color: black;
+  text-align: left;
+  font-size: 40px;
+  font-family: 'Lora', serif;
+}
+
+#content p{
+  color: black;
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Lora', serif;
+}
+
+#content button{
+  color: black;
+  background-color: skyblue;
+  text-align: center;
+  font-size: 12px;
+  font-family: 'Lora', serif;
+  border-radius: 6px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border:  1px black;
+}
+
+#content1{
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Lora', serif;
+}
+
+#content2{
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Lora', serif;
+}
+
+
+#content3{
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Lora', serif;
+}
+
+
+
+#content1 p{
+  color: black;
+  font-size: 13px;
+  font-family: 'Lora', serif;
+  line-height: 1.6;
+  float: left;
+  text-align: left;
+}
+
+#content2 p{
+  color: black;
+  font-size: 13px;
+  font-family: 'Lora', serif;
+  line-height: 1.6;
+  float: left;
+  text-align: left;
+}
+
+
+
+#content3 p{
+  color: black;
+  font-size: 13px;
+  font-family: 'Lora', serif;
+  line-height: 1.6;
+  float: left;
+  text-align: left;
+}
+
+#button1{
+  color: black;
+  background-color: lightpink;
+  text-align: center;
+  font-size: 12px;
+  font-family: 'Lora', serif;
+  border-radius: 6px;
+  padding-top: 18px;
+  padding-right: 18px;
+  padding-bottom: 18px;
+  padding-left: 18px;
+  margin-bottom: 5px;
+  border:  1px  black;
+}
